@@ -1,0 +1,29 @@
+ /* Full credit to code.org for task */
+  
+p {
+  color: black;
+}
+h1 {
+  color: #000000;
+  text-align: center;
+  font-family: courior, monospace;
+} /* aligned text and changed text color */
+img{
+  width: 150px;
+  height: 150px;
+  border: 5px dashed #000000;
+  rotate: 5deg;
+}
+
+body {
+  vertical-align: super;
+  text-align: center;
+  background-image: url("pixel_nature.jpg") ;
+  background-repeat: repeat;
+} /* added bg img */
+
+h2 {
+  color: #296129;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+} /* added font and color*/
